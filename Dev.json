@@ -45,24 +45,15 @@
             },
             {
                 "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Med.png",
-                "name": "Med Saignaleuth",
+                "name": "ThongXiong XAILEENORCHA",
                 "title": "Senior Computer Scientist",
-                "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, NextJS, React Native, Javascript, UX/UI",
+                "profile": "ມີຄວາມລະອຽດໃນໜ້າທີ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : Python, NodeJS, ReactJS, TypeScript, React Native, Javascript, UX/UI",
                 "WA": "#",
                 "FB": "#",
                 "IG": "#",
                 "status": "Dev"
-            },
-            {
-                "img": "https://raw.githubusercontent.com/apple122/RES-API/API/IMG-Dev/Apple.png",
-                "name": "Apple Phomsungcan",
-                "title": "Senior Computer Scientist",
-                "profile": "ມີຄວາມຄິດສ້າງສັນ ແລະ ເປັນມືອາຊີບທາງດ້ານພາສາ : NodeJS, ReactJS, NextJS, React Native, TailwindCSS",
-                "WA": "2095188702",
-                "FB": "https://web.facebook.com/profile.php?id=100012618940519",
-                "IG": "#",
-                "status": "Dev"
             }
+    
         ]
     }
 ]
